@@ -11,7 +11,7 @@
 
  ``` gradle
 dependencies {
-    implementation 'com.github.ybq:Android-SpinKit:1.2.0'
+    implementation 'com.github.TalebRafiepour:Android-SpinKit:1.3.0'
  }
  ```
 
